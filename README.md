@@ -9,7 +9,7 @@ Hello
 
 <!-- Top languages -->
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxShandsome&layout=compact&theme=tokyonight&count_private=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxShandsome&layout=compact&theme=tokyonight&count_private=true&langs_count=10">
 </p
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
